@@ -1,0 +1,57 @@
+
+/* Genel Stil */
+body {
+    font-family: 'Circular Std', sans-serif;
+    margin: 0;
+    background-color: #121212; /* Koyu arka plan */
+    color: #fff; /* Beyaz metin rengi */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .search-container {
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+    background-color: #282828; /* Koyu gri arka plan */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  #searchInput {
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    border: 2px solid #1db954; /* Spotify yeşili */
+    border-radius: 5px;
+    background-color: #121212; /* Arka plan rengi koyu */
+    color: #fff; /* Yazı rengi beyaz */
+    outline: none;
+  }
+  
+  #searchInput::placeholder {
+    color: #bbb; /* Placeholder rengi */
+  }
+  
+  #resultsList {
+    margin-top: 20px;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #resultsList li {
+    padding: 12px 0;
+    border-bottom: 1px solid #333;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  #resultsList li:hover {
+    background-color: #1db954; /* Spotify yeşili */
+    color: #121212; /* Yazı rengi değişir */
+  }
+  
