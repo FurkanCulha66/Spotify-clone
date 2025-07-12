@@ -30,7 +30,7 @@ This project is a frontend clone of the popular music streaming platform Spotify
 
 1. Clone the repository:
 2. https://github.com/Nakruf66/spotify-clone.git
-3. 2. Open `index.html` in your browser
+3. 2. Open index.html in your browser
 
 ## 📌 Note
 
