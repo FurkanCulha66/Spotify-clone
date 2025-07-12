@@ -21,8 +21,10 @@ This project is a frontend clone of the popular music streaming platform Spotify
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3  
+- CSS3
+- Scss
 - JavaScript
+
 
 ## 📂 How to Run
 
