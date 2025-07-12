@@ -1,41 +1,14 @@
-🇹🇷 README - Spotify Klonu Projesi (Türkçe)
-
-  # 🎵 Spotify Klonu
-
-Bu proje, popüler müzik dinleme platformu Spotify'ın temel işlevlerini taklit eden bir arayüz klonudur. HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
-
-## 🚀 Özellikler
-
-- Ana sayfa tasarımı
-- Oynatma çubuğu (play, pause, next)
-- Şarkı listesi gösterimi
-- Mobil uyumlu tasarım
-- Interaktif kullanıcı deneyimi (JavaScript ile)
-
-## 🛠️ Kullanılan Teknolojiler
-
-- HTML5
-- CSS3
-- JavaScript
-
-## 📂 Projeyi Çalıştırma
-
-1. Bu repoyu bilgisayarına klonla:
-https://github.com/Nakruf66/spotify-clone.git
-2. `index.html` dosyasını tarayıcıda aç
-
-## 📌 Not
-
-Bu proje sadece eğitim amaçlıdır ve herhangi bir ticari kullanım amacı taşımamaktadır.
-
-
-
-
 🌍 README - Spotify Clone Project (English)
   
   # 🎵 Spotify Clone
 
 This project is a frontend clone of the popular music streaming platform Spotify, built using HTML, CSS, and JavaScript.
+
+## Preview
+
+<img width="1920" height="1080" alt="Adsız - Google Chrome 12 07 2025 18_47_33" src="https://github.com/user-attachments/assets/d51ff125-30cf-48ce-a292-6bda13ef775f" />
+
+
 
 ## 🚀 Features
 
